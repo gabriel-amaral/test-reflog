@@ -1,1 +1,3 @@
 # test-reflog
+
+test
